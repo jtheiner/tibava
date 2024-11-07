@@ -1,12 +1,12 @@
 [submodule "frontend"]
 	path = frontend
-	url = git@github.com:TIBHannover/tibava-frontend.git
+	url = https://github.com/TIBHannover/tibava-frontend.git
 [submodule "backend"]
 	path = backend
-	url = git@github.com:TIBHannover/tibava-backend.git
+	url = https://github.com/TIBHannover/tibava-backend.git
 [submodule "analyser"]
 	path = analyser
-	url = git@github.com:TIBHannover/tibava-analyser.git
+	url = https://github.com/TIBHannover/tibava-analyser.git
 [submodule "inference-bentoml"]
 	path = inference-bentoml
-	url = git@github.com:TIBHannover/tibava-inference-bentoml.git
+	url = https://github.com/TIBHannover/tibava-inference-bentoml.git
